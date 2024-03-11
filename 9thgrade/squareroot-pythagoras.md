@@ -1,56 +1,33 @@
-## Math Practice Test: Square Roots and Pythagorean Theorem
+### Practice Test: Square Roots and Pythagorean Theorem
 
-### Square Root Problems
+#### Square Root Problems
 
-1. Simplify: √49
-2. Evaluate: √64
-3. Find the square root of 121.
-4. Simplify: √81
-5. What is the value of √225?
-6. Calculate the square root of 144.
-7. Find the value of √196.
-8. Simplify √256.
-9. What is the square root of 169?
-10. Evaluate √289.
+1. Find the square root of 144.
+2. Calculate the square root of 0.64.
+3. If the area of a square is 49 square meters, what is the length of one side?
+4. Determine the square root of 225.
+5. A square garden has an area of 121 square meters. How long is each side?
 
-### Pythagorean Theorem Problems
+#### Pythagorean Theorem Problems
 
-11. A right triangle has legs of 3 cm and 4 cm. Find the length of the hypotenuse.
-12. Find the length of the missing side of a right triangle with legs of 5 cm and 12 cm.
-13. A right-angled triangle has a hypotenuse of 13 cm and one leg of 5 cm. Calculate the length of the other leg.
-14. If one leg of a right triangle is 8 cm and the hypotenuse is 10 cm, what is the length of the other leg?
-15. A right triangle has a hypotenuse of 15 cm and one leg of 9 cm. Find the length of the missing leg.
+6. In a right-angled triangle, if one side is 8 meters and the other side is 6 meters, what is the length of the hypotenuse?
+7. A ladder leans against a wall, reaching a height of 4 meters. If the bottom of the ladder is 3 meters from the base of the wall, what is the length of the ladder?
+8. The sides of a right triangle are 9 meters and 12 meters. Find the length of the hypotenuse.
+9. A right-angled triangle has a hypotenuse of 13 meters and one side of 5 meters. Calculate the length of the other side.
+10. Find the hypotenuse of a right-angled triangle with sides of 7 meters and 24 meters.
 
-### Word Problems on Square Roots
+#### Word Problems Involving Square Roots
 
-16. The area of a square is 64 square meters. What is the length of one side of the square?
-17. A square garden has an area of 100 square meters. How long is each side of the garden?
-18. If a square has an area of 225 square meters, what is the length of one side?
-19. A square pavilion has a floor area of 256 square meters. Calculate the length of one side of the pavilion.
-20. The surface area of a square parking lot is 361 square meters. How long is each side?
+11. A circular park has an area of 314 square meters. Calculate the radius of the park. (Use π = 3.14)
+12. The diagonal of a square screen is 50 inches. What is the area of the screen in square inches?
+13. A rectangular garden is 16 meters long and has an area of 128 square meters. What is the width of the garden?
+14. A square tile has a diagonal length of 1.4 meters. What is the area of the tile?
+15. The length of a rectangular room is twice its width. If the area of the room is 50 square meters, what are the dimensions of the room?
 
-### Word Problems on Pythagorean Theorem
+#### Word Problems Involving the Pythagorean Theorem
 
-21. A ladder is leaning against a wall. The bottom of the ladder is 6 meters from the wall, and the top of the ladder reaches 10 meters up the wall. How long is the ladder?
-22. Two points are 8 kilometers apart on a straight road. A car starts from one point and drives 6 kilometers perpendicularly away from the road. How far is the car now from the other point?
-23. A rectangular field is 50 meters long and 40 meters wide. A diagonal path is to be constructed. How long will the path be?
-24. A river is flowing straight between two towns. The towns are 12 kilometers apart, and a bridge needs to be built diagonally across the river from one town to the other, making a 9-kilometer direct distance across. How wide is the river?
-25. A cable is stretched from the top of a 24-meter pole to a point on the ground 18 meters away from the base of the pole. How long is the cable?
-
-### Mixed Difficulty Problems
-
-26. Evaluate: √625
-27. A right triangle's legs are 7 meters and 24 meters. Find the hypotenuse.
-28. If the area of a square is 256 square meters, what is the length of its side?
-29. A triangle has a hypotenuse of 17 meters and one leg of 8 meters. What is the length of the other leg?
-30. The square root of what number is 15?
-31. Calculate the length of the hypotenuse of a right triangle with legs measuring 9 meters and 12 meters.
-32. A square playground has an area of 361 square meters. Find the length of one side.
-33. If a right triangle has one leg of 10 meters and a hypotenuse of 26 meters, what is the length of the other leg?
-34. Find the square root of 324.
-35. A ladder is 13 meters long and reaches a window 12 meters high. How far is the base of the ladder from the building?
-36. Evaluate: √400
-37. The hypotenuse of a right triangle is 25 meters, and one leg is 7 meters. Calculate the length of the other leg.
-38. If a square has an area of 169 square meters, what is the length of its side?
-39. A right triangle has legs of 14 meters and 48 meters. Find the hypotenuse.
-40. Calculate the square root of 529.
+16. Two cities are connected by a straight road. City A is 6 km north and 8 km east of City B. What is the shortest distance between the two cities?
+17. A rectangular field is 15 meters long and 20 meters wide. A diagonal path is to be constructed. What will be the length of the path?
+18. A triangular plot of land has two sides measuring 80 meters and 150 meters, and these sides meet at a right angle. What is the length of the third side?
+19. A swimming pool ladder is 2.5 meters long and reaches from the bottom of the pool to the poolside, coming out at a right angle. If the bottom of the ladder is 2 meters from the wall, what is the depth of the pool?
+20. A TV screen is 48 inches wide and has a diagonal of 60 inches. What is the height of the screen?
