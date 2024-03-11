@@ -1,6 +1,3 @@
-Sure, I'll provide the practice test in Markdown format for easy copying and pasting with maintained formatting:
-
-```markdown
 # Math Practice Test
 
 ## Square Root Problems
@@ -57,6 +54,3 @@ Sure, I'll provide the practice test in Markdown format for easy copying and pas
 38. If a square has an area of 169 square meters, what is the length of its side?
 39. A right triangle has legs of 14 cm and 48 cm. Find the hypotenuse.
 40. Calculate the square root of 529.
-```
-
-This format should help you maintain the structure and numbering when you copy and paste it into your desired destination.
